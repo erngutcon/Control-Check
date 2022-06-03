@@ -1,0 +1,6 @@
+key,code,creationMoment,subject,explanation,startPeriod,finishPeriod,income,more-info,key:item
+comema-01,AA01AA-060222,2022/01/01 18:00,Comema1,Desc Comema1,2022/07/06 10:00,2022/07/13 10:00,EUR 6.0,http://www.comema1.com,item-01
+comema-02,AA02AA-060222,2022/01/01 19:00,Comema2,Desc Comema2,2022/07/07 11:00,2022/07/14 11:00,GBP 11.0,,item-02
+comema-03,AA03AA-060222,2022/01/01 20:00,Comema3,Desc Comema3,2022/07/08 12:00,2022/07/15 12:00,EUR 21.0,http://www.comema3.com,item-03
+comema-04,AA04AA-060222,2022/01/01 21:00,Comema4,Desc Comema4,2022/07/09 13:00,2022/07/16 13:00,GBP 33.7,,item-04
+comema-05,AA05AA-060222,2022/01/01 22:00,Comema5,Desc Comema5,2022/07/10 14:00,2022/07/17 14:00,USD 15.33,,item-05
